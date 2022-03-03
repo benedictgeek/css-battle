@@ -2,7 +2,7 @@
 # Black lives matter
 [Checkout challenge here](https://cssbattle.dev/play/54)
 
-<img src="https://i.ibb.co/jhqSVkp/Screenshot-2022-03-03-at-5-51-27-PM.png" alt="Screenshot-2022-03-03-at-5-51-27-PM" width="150" height="280">
+<img src="https://i.ibb.co/jhqSVkp/Screenshot-2022-03-03-at-5-51-27-PM.png" alt="Screenshot-2022-03-03-at-5-51-27-PM" width="280" height="280">
 
 ![Image jpeg](https://i.ibb.co/jhqSVkp/Screenshot-2022-03-03-at-5-51-27-PM.png)
 
